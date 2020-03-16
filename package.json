@@ -1,0 +1,32 @@
+{
+  "name": "yt-bulk-pl-dl",
+  "version": "1.0.0",
+  "description": "A simple tool to download all videos in a public playerlist",
+  "main": "index.js",
+  "dependencies": {
+    "fold-to-ascii": "^5.0.0",
+    "mkdirp": "^1.0.3",
+    "youtube-dl": "^3.0.2",
+    "youtube-playlist": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sytm/yt-bulk-pl-dl.git"
+  },
+  "keywords": [
+    "cli",
+    "downloader",
+    "youtube",
+    "bulk"
+  ],
+  "author": "Lukas Planz",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Sytm/yt-bulk-pl-dl/issues"
+  },
+  "homepage": "https://github.com/Sytm/yt-bulk-pl-dl#readme"
+}
